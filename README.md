@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goodjobmey
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java, c++, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: in telegram @goodjobmey 
 - 😄 Pronouns: she/her
